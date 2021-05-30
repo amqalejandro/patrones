@@ -1,0 +1,9 @@
+strategy\Main.class
+strategy\StrategyMultiplication.class
+decorator\Main.class
+decorator\IComponent.class
+strategy\IOperationStrategy.class
+strategy\StrategyAdd.class
+strategy\StrategySubtraction.class
+strategy\StrategyDivision.class
+decorator\ComponentAuto.class
